@@ -1,1 +1,1 @@
-
+This Python program uses the Scapy library to create a basic packet sniffer that captures and displays network packets. It defines a callback function to process and print packet details, and uses the sniff function to capture a specified number of packets.
